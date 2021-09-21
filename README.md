@@ -1,7 +1,7 @@
 ## Versi Python: 3.9 64-bit
 
 # 1. Persiapan:
-> 1. Install dlib terlebih dahulu. [Windows](https://learnopencv.com/install-dlib-on-windows/) | [MacOS](https://learnopencv.com/install-dlib-on-macos/)
+> 1. Install dlib terlebih dahulu. [Windows](https://learnopencv.com/install-dlib-on-windows/) | [MacOS](https://learnopencv.com/install-dlib-on-macos/) | `Disarankan menggunakan CUDA untuk penggunga nVidia GeForce`
 > 2. Download code ini [di sini](https://codeload.github.com/alanrizky/tugasakhir/zip/refs/heads/main)
 > 3. Download dataset [di sini](https://drive.google.com/file/d/1DyQ3GCoutfiRdqcq7G5M58yKG2jK77-3/view?usp=sharing)
 > 4. Extract ```tugasakhir-main.zip```
