@@ -9,6 +9,6 @@
 
 # 2. Cara run:
 > 1. Jalankan ```encode_faces.py``` kemudian tunggu proses training
-> 2. Buka video yang sudah di download [di sini](https://drive.google.com/drive/folders/1TEKo4B6eELFuCETQGvKQaHPAQ9muRJq6)(bisa salah satu)
+> 2. Buka video yang sudah di download [di sini](https://drive.google.com/drive/folders/1TEKo4B6eELFuCETQGvKQaHPAQ9muRJq6) (bisa salah satu)
 > 3. Jalankan ```recognize_faces_image.py``` kemudian isikan kelas dan mata kuliah
 > 4. Melakukan proses presensi
