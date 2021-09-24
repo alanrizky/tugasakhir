@@ -33,8 +33,8 @@
 
 ## Catatan:
 Ketika file `recognize_faces_image.exe` dijalankan akan menghasilkan folder/file:
-1. `[Kelas]\_[Mata Kuliah]\_[Tanggal-Bulan-Tahun].csv` sebagai wajah yang berhasil dikenali
-2. Folder `hasil` dengan isi folder `[Kelas]\_[Mata Kuliah]\_[Tanggal-Bulan-Tahun]` dengan isi file screenshot `[angka].jpg` (angka adalah presensi ke)
+1. `[Kelas]\_[Mata Kuliah]\_[Tanggal-Bulan-Tahun].csv` sebagai wajah yang berhasil dikenali. Contoh [di sini](https://i.ibb.co/42rYS5z/Capture.jpg)
+2. Folder `hasil` dengan isi folder `[Kelas]\_[Mata Kuliah]\_[Tanggal-Bulan-Tahun]` dengan isi file screenshot `[angka].jpg` (angka adalah presensi ke). Contoh [di sini](https://i.ibb.co/ZxVn9k1/Capture.jpg)
 3. File `test.db` yang berisi kumpulan wajah yang berhasil dikenali
 Berikut adalah contoh salah satu data yang terdapat pada file `test.db` 
 
