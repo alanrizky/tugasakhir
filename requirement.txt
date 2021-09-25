@@ -5,4 +5,3 @@ pygetwindow==0.0.9
 pywinauto==0.6.8
 imutils==0.5.4
 dlib==19.21.1
-openpyxl==3.0.7
