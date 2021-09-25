@@ -3,9 +3,9 @@
 
 ## A. Menjalankan File EXE
 # 1. Persiapan:
-> 1. Download aplikasi [di sini](https://drive.google.com/drive/u/4/folders/1rQz-WZunWNFY_f1EGSVhmoOSrNfdKkUm)
+> 1. Download aplikasi [di sini](https://drive.google.com/drive/folders/1rQz-WZunWNFY_f1EGSVhmoOSrNfdKkUm?usp=sharing)
 > 2. Extract `Aplikasi.zip`
-> 3. Download video rekaman Zoom [di sini](https://drive.google.com/drive/u/4/folders/1cWqTxx0ZdY6TY4ON6KdkWnAkyZRXmuEn) (bisa salah satu)
+> 3. Download video rekaman Zoom [di sini](https://drive.google.com/drive/folders/1cWqTxx0ZdY6TY4ON6KdkWnAkyZRXmuEn?usp=sharing) (bisa salah satu)
 > 4. Download media player classic [di sini](https://files3.codecguide.com/K-Lite_Codec_Pack_1646_Basic.exe), lalu install
 
 # 2. Cara run:
